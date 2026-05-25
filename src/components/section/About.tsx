@@ -22,7 +22,6 @@ const About = () => {
     'Game Developer',
     'System Designer',
     '3D Modeler',
-    'Frontend Developer',
   ];
 
   const profileImages = [
